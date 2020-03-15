@@ -11,5 +11,5 @@ I recommend doing a deeper analysis of potential donors to ensure success before
 
 ### Challenge
 My first analysis looks at outcomes based upon the Launch Date for all Theater projects
-!theater%20Outcomes%20based%20on%20Launch%20Date.png
+![theater%20Outcomes%20based%20on%20Launch%20Date.png]
 
