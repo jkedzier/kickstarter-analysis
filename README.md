@@ -13,3 +13,5 @@ I recommend doing a deeper analysis of potential donors to ensure success before
 My first analysis looks at outcomes based upon the Launch Date for all Theater projects
 ![Theater Outcomes](Theater%20Outcomes%20based%20on%20Launch%20Date.png)
 
+My second analysis looks at outcomes based upon the goal amount
+![Goal Outcomes](Outcomes%20Based%20on%20Goal.png)
