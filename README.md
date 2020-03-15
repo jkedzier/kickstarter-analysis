@@ -14,7 +14,7 @@ My first analysis looks at outcomes based upon the Launch Date for all Theater p
 ![Theater Outcomes](Theater%20Outcomes%20based%20on%20Launch%20Date.png)
 
 My second analysis looks at outcomes based upon the goal amount
-![Goal Outcomes](Outcomes%20Based%20on%20Goal.png)
+![Goal Outcomes](goal.png)
 
 Here are some findings:
 *Successful Kickstarters are for plays that launch in May.  We should dig deeper into what that time period means
